@@ -2,6 +2,6 @@
 
 Project referring to course "Manipulating the DOM" that I participated in the Bootcamp Web Full Stack by [DIO](https://dio.me "Dio web Site") 
 
-## Exemplo
+## Example
 
-![Exercício Dark Mode e Light Mode](./dark-mode-exercicio.gif)
+![Exercício Dark Mode e Light Mode](./darkmode.gif)
