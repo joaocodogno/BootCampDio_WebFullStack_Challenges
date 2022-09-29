@@ -4,4 +4,4 @@ Project referring to course "Manipulating the DOM" that I participated in the Bo
 
 ## Example
 
-![Exercício Dark Mode e Light Mode](./darkmode.gif)
+![Dark Mode e Light Mode Exercice](./dark-mode.gif)
